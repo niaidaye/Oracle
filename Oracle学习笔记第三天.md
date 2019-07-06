@@ -1,5 +1,3 @@
-# Group by 分组函数
-
 # 函数
 
 - ## Aggregate函数 - 函数计算从列中取得的值，返回一个单一的值
@@ -23,7 +21,15 @@
   - NOW() - 返回当前的系统日期和时间
   - FORMAT() - 格式化某个字段的显示方式
 
-# 多表查询
+# GROUP BY
+
+- ​	GROUP BY 语句用于结合聚合函数，根据一个或多个列对结果集进行分组。
+
+# HAVING子句
+
+# 多表查询 (JOIN)
+
+[](https://www.runoob.com/wp-content/uploads/2019/01/sql-join.png)
 
 ## 1. 笛卡尔积
 
